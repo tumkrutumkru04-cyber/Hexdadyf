@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["php82", "php82Extensions.json"]
+nixPkgs = ["php82"]
 
 [phases.install]
 cmds = ["echo 'No install needed'"]
